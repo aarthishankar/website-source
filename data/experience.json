@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Research Assistant",
+        "company":"Records and Information Management Services, University of Illinois",
+        "summary":"Formulated algorithms to perform textual analysis on a large dataset of emails and to obscure Personally Identifiable Information in the dataset. Exported the manually trained (tagged as public or restricted) items from one tool to another using VLOOKUP based on date and time as the key to match the document id across two tools to save time from manually training the tool and tagging again. Analyzed and evaluated multiple text analysis tools like Advance eDiscovery, ePADD, Recommind which use Machine Learning and predictive analysis for detecting sensitive data.",
+        "range":"Aug 2017 - Present"
+    },
+    {
+        "role":"Software Engineer",
+        "company":"Nokia Networks",
+        "summary":"Designed and developed a feature that enhanced the data-type support in message attributes. Developed a distributed state machine spanning across systems - Nokia Access Virtualizer and Access Management system, to monitor and notify the counterpart on state changes. Ensured the ahead-of-time delivery of this critical piece in a major customer requested feature. Fixed a number of bugs and made enhancements for inclusion in future code releases and patches",
+        "range":"June 2016 - June 2017"
+    },
+    {
+        "role":"Data Analyst Intern",
+        "company":"HeroTalkies Entertainment Private Ltd",
+        "summary":"Analyzed user behaviour on various platforms and generated reports for product development. Built a dashboard to consolidate analytics data from various sources.",
+        "range":"July 2015 - May 2016"
+    }
+]

@@ -1,0 +1,17 @@
+[
+  {
+      "grouping":"Programming Languages",
+      "skills":[ "Java", "Android", "C ++", "C", "Shell Scripting (bash)","R", "Python", "Matlab" ]
+  },{
+      "grouping":"Web Technologies",
+      "skills":[ "HTML5", "CSS3", "JavaScript", "JQuery", "PHP", "JSP"]
+  },
+  {
+      "grouping":"Databases",
+      "skills":[ "Oracle", "MySQL", "SQLite", "Microsoft Access"]
+  },
+  {
+      "grouping":"Tools",
+      "skills":[ "Weka", "Microsoft Office (Word, Excel, Access, Power Point)", "Tableau", "R Studio","Power BI", "Google Analytics","Enterprise Architect"]
+  }
+]

@@ -1,0 +1,35 @@
+#baseURL = "https://aarthishankar.github.io"
+baseURL = "https://frozen-plains-61425.herokuapp.com"
+languageCode = "en-us"
+title = "Aarthi Shankar - Portfolio"
+
+[params]
+    firstName = "Aarthi"
+    lastName = "Shankar"
+    address = "48, E.John St, #204 , Champaign, Illinois-61820"
+    phone = "1-217-904-5469"
+    contactNote = "Data Scientist"
+    profileImage = "img/profile.jpg"
+    email = "shankar9@illinois.edu"
+    description = "An aspiring Data Scientist and an experienced Software Engineer with a willingness to constantly learn, code and play around with data. Skilled in Statistical Data Analysis, Machine Leaning, Python, R, MATLAB and Java."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/aarthishankar1994"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/aarthishankar"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
